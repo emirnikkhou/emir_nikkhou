@@ -3,14 +3,15 @@ using namespace std ;
 int factorial (int n)
 {
 	int ans = 1 ;
-	for (int i=0 ; i<=n ; i++)
-		ans = ans *  n ;	
-	return ans;
+	if ( n==1 ) return 1;
+	return factorial(n-1)*n;
 }
 int main()
 {
 	int n ;
+	String k ;
 	cin >> n ;
 	cout << factorial(n) ;
 	return 0 ;
+	
 }
