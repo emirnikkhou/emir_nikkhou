@@ -18,8 +18,5 @@ int main()
 	
 }
 //HEY Broooo
-<<<<<<< HEAD
 //hey niki
-=======
-//hey amirrr
->>>>>>> test2
+//fhgnbuerhgregfrae
