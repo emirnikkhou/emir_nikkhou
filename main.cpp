@@ -1,5 +1,7 @@
+//in the name og GOD
 #include <iostream>
 using namespace std ;
+
 int factorial (int n)
 {
 	int ans = 1 ;
